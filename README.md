@@ -17,7 +17,7 @@ Welcome to Secret Santa, a web application that simplifies the process of pairin
 
 ## Demo
 
-If you want to see a demo of this Secret Santa generator in action, you can visit the website hosted at [www.thomaschaplin.me/secretsanta](www.thomaschaplin.me/secretsanta)
+If you want to see a demo of this Secret Santa generator in action, you can visit the website hosted at [www.thomaschaplin.me/secret-santa](https://www.thomaschaplin.me/secret-santa)
 
 ## Getting Started
 
