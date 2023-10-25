@@ -1,6 +1,6 @@
 # Secret Santa
 
-![Secret Santa Logo](./assets/santa.png)
+<img src="assets/santa.png" alt="logo" width="325"/>
 
 Welcome to Secret Santa, a web application that simplifies the process of pairing participants for your Secret Santa gift exchange. This tool allows you to set up your Secret Santa event with specific rules and exclusions to make the holiday gift exchange even more fun and exciting. This is a clone of the original repo [arcanis/secretsanta](https://github.com/arcanis/secretsanta) with some customisation and changes.
 
