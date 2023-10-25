@@ -26,7 +26,7 @@ To get started, you can follow these steps to run the Secret Santa Generator:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/secret-santa.git
+   git clone https://github.com/thomaschaplin/secret-santa.git
    ```
 
 2. Navigate to the project directory:
